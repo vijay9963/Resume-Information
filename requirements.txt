@@ -1,5 +1,5 @@
-google-generativeai==0.8.5
-python-dotenv==1.2.2
-pydantic==2.11.7
-streamlit==1.xx.x
-langfuse==x.x.x
+google-generativeai
+python-dotenv
+pydantic
+streamlit
+langfuse
